@@ -136,10 +136,9 @@ El código utiliza la librería `Thread` para gestionar múltiples tareas concur
 ## Funcionamiento
 
 ### Video Demostrativo
+[![url video funcionamiento](media/IMG_2509.PNG)](https://youtube.com/shorts/yehX4C5ypNg?feature=share)
 ![foto cafe 1](media/IMG_2493.jpeg)
 ![foto cafe 2](media/IMG_2495.jpeg)
-![url video funcionamiento](https://youtu.be/dQw4w9WgXcQ?si=LAUFe_zpyXmT5nyN)
-![foto cafe 3](media/IMG_2509.PNG)
 
 ### Flujo de Operación
 
